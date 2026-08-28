@@ -1,0 +1,4 @@
+repository "Pedro/PNQPI@4674075051800@cloud"
+  path "/"
+    br "/main"
+    co "/main"
